@@ -29,7 +29,7 @@
 	<section id="hl">
 		<div class="hl">
 			<div class="container">
-				<a href="index.php">HOME</a>
+				<a href="index.html">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
 				<a href="contact-us.php">CONTACT US</a>
 			</div>
