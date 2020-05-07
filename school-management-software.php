@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 	<link rel="stylesheet" type="text/css" href="css/events.css">
+	<link rel="stylesheet" type="text/css" href="css/offer.css">
 
 </head>
 
@@ -29,45 +30,44 @@
 			<div class="container">
 				<a href="index.php">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
-				<a href="events.php">EVENTS</a>
+				<a href="school-management-software.php">SCHOOL MANAGEMENT SOFTWARE</a>
 			</div>
 		</div>
 	</section>
 
-	<!------------------------------------events--------------------------->
-	<section id="events">
-		<div class="events">
-			<div class="container">
-				<h3>Events</h3>
+	<!------------------------------offer------------------------------------>
+	<section id="offer">
+		<div class="container">
+			<div class="offer">
 				<div class="row">
 					<div class="col-md-5 col-sm-12">
-						<img src="img/1.jpg">
-					</div>
-					<div class="col-md-7 col-sm-12">
-						<div class="events-detail">
-							<h4>First Events</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<div class="offer-img">
+							<a href="">
+								<img class="image" src="img/3.jpg">
+								<div class="middle">
+								    <div class="text">VIEW DEMO</div>
+								 </div>
+							</a>
 						</div>
 					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-5 col-sm-12">
-						<img src="img/1.jpg">
+					<div class="col-md-4 col-sm-12">
+						<div class="offer-detail">
+							<h4>SCHOOL MANAGEMENT SOFTWARE 1</h4>
+							<ul>
+								<li><i class="fa fa-angle-double-right"></i> Detail one is Good</li>
+								<li><i class="fa fa-angle-double-right"></i> Detail one is Good</li>
+								<li><i class="fa fa-angle-double-right"></i> Detail one is Good</li>
+								<li><i class="fa fa-angle-double-right"></i> Detail one is Good</li>
+							</ul>
+						</div>
 					</div>
-					<div class="col-md-7 col-sm-12">
-						<div class="events-detail">
-							<h4>Second Events</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<div class="col-md-3 col-sm-12">
+						<div class="offer-price">
+							<h5 style="margin-top: 40px;"><i class="fa fa-inr"></i> 25000</h5>
+							<div class="off-price">
+								<a href="">Buy Now</a>
+								<a href=""><i class="fa fa-cart-plus"></i></a>
+							</div>
 						</div>
 					</div>
 				</div>

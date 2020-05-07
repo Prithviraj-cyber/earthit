@@ -3,7 +3,7 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
+	<link rel="shortcut icon" href="img/logo.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
 
 </head>
 
-<?php include("header.php"); ?>
+<?php include'header.php';?>
 
 <body>
 
@@ -37,7 +37,7 @@
 		<div id="carouselExampleFade" class="carousel slide slider carousel-fade" data-ride="carousel">
 		  	<div class="carousel-inner">
 			    <div class="carousel-item active">
-			      	<img src="img/2.jpg" class="d-block w-100" alt="...">
+			      	<img src="img/2.jpg" class="d-block w-100">
 			      	<div class="carousel-caption">
 					    <h5 class="animated bounceInRight" style="animation-delay: 1s">
 					    	web development
@@ -51,7 +51,7 @@
 				    </div>
 			    </div>
 			    <div class="carousel-item">
-			      	<img src="img/4.jpg" class="d-block w-100" alt="...">
+			      	<img src="img/4.jpg" class="d-block w-100">
 			      	<div class="carousel-caption">
 				        <h5 class="animated slideInDown" style="animation-delay: 1s">
 				        	App development
@@ -65,7 +65,7 @@
 				    </div>
 			    </div>
 			    <div class="carousel-item">
-			      	<img src="img/3.jpg" class="d-block w-100" alt="...">
+			      	<img src="img/3.jpg" class="d-block w-100">
 			      	<div class="carousel-caption">
 				        <h5 class="animated zoomIn" style="animation-delay: 1s">
 				        	Digital marketing
@@ -118,7 +118,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="services-detail" data-aos="fade-right"  data-aos-delay="200">
 						<ul>
-							<a href="">
+							<a href="web-development.php">
 								<div>
 									<i class="fa fa-television" aria-hidden="true"></i>
 									<li>Website Development</li>
@@ -267,16 +267,46 @@
 				<div class="col-md-6 col-sm-12">
 					<div class="product" data-aos="fade-right"  data-aos-delay="200">
 						<ul>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>School Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Online Examination Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Hospital Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Hotel Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Accounting Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Medical Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Web Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>App Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Bulk sms</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>SEO Services</li></a>
+							<a href="school-management-software.php"><li>
+								<i class="fa fa-angle-double-right"></i>
+								School Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Online Examination Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Hospital Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Hotel Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Accounting Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Medical Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Web Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								App Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Bulk sms
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								SEO Services
+							</li></a>
 						</ul>
 					</div>
 				</div>
@@ -451,7 +481,7 @@
 
 	<!------------------------------------footer------------------------>
 
-	<?php include("footer.php"); ?>
+	<?php include'footer.php'; ?>
 
 	<!----------------------------script-------------------------------->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

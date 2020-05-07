@@ -29,7 +29,7 @@
 			<div class="container">
 				<a href="index.php">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
-				<a href="events.php">EVENTS</a>
+				<a href="blog.php">BLOG</a>
 			</div>
 		</div>
 	</section>
@@ -38,14 +38,14 @@
 	<section id="events">
 		<div class="events">
 			<div class="container">
-				<h3>Events</h3>
+				<h3>Our Blog</h3>
 				<div class="row">
 					<div class="col-md-5 col-sm-12">
 						<img src="img/1.jpg">
 					</div>
 					<div class="col-md-7 col-sm-12">
 						<div class="events-detail">
-							<h4>First Events</h4>
+							<h4>First Blog</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -61,7 +61,7 @@
 					</div>
 					<div class="col-md-7 col-sm-12">
 						<div class="events-detail">
-							<h4>Second Events</h4>
+							<h4>Second Blog</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

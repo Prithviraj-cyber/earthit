@@ -3,7 +3,7 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
+	<link rel="shortcut icon" href="img/logo.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,7 +28,7 @@
 	<section id="hl">
 		<div class="hl">
 			<div class="container">
-				<a href="index.html">HOME</a>
+				<a href="index.php">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
 				<a href="about.php">ABOUT US</a>
 			</div>
@@ -50,18 +50,54 @@
 					<div class="about-services">
 						<h4>SERVICES <i class="fa fa-hand-o-right"></i></h4>
 						<ul>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Website Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Software Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Domain & Web Hosting</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Digital Marketing Services</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>App Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Email Marketing</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Whatsapp Marketing</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Bulk sms</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Bulk Voice Call</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Bulk Whatsapp</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>SSL Certificate</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Payment Gatway</li></a>
+							<a href="web-development.php">
+								<li><i class="fa fa-angle-double-right"></i>
+								Website Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Software Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Domain & Web Hosting
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Digital Marketing Services
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								App Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Email Marketing
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Whatsapp Marketing
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Bulk sms
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Bulk Voice Call
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Bulk Whatsapp
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								SSL Certificate
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Payment Gatway
+							</li></a>
 						</ul>
 					</div>
 				</div>
@@ -69,16 +105,46 @@
 					<div class="about-services">
 						<h4>PRODUCTS <i class="fa fa-hand-o-right"></i></h4>
 						<ul>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>School Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Online Examination Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Hospital Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Hotel Management Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Accounting Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Medical Software</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Web Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>App Development</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>Bulk sms</li></a>
-							<a href=""><li><i class="fa fa-angle-double-right"></i>SEO Services</li></a>
+							<a href="school-management-software.php"><li>
+								<i class="fa fa-angle-double-right"></i>
+								School Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Online Examination Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Hospital Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Hotel Management Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Accounting Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Medical Software
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Web Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								App Development
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								Bulk sms
+							</li></a>
+							<a href=""><li>
+								<i class="fa fa-angle-double-right"></i>
+								SEO Services
+							</li></a>
 						</ul>
 					</div>
 				</div>

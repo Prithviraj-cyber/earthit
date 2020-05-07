@@ -3,7 +3,7 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
+	<link rel="shortcut icon" href="img/logo.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
 	<section id="hl">
 		<div class="hl">
 			<div class="container">
-				<a href="index.html">HOME</a>
+				<a href="index.php">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
 				<a href="services.php">SERVICES</a>
 			</div>
@@ -84,9 +84,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -99,9 +96,7 @@
 									consequat.
 								</p>
 								<div class="service-link">
-									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
+									<a class="l-1" href="web-development.php">View Details</a>
 								</div>
 							</div>
 						</div>
@@ -114,9 +109,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -130,8 +122,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -144,9 +134,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -160,8 +147,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -174,9 +159,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -190,8 +172,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -204,9 +184,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -220,8 +197,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -234,9 +209,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -250,8 +222,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -264,9 +234,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -280,8 +247,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -294,9 +259,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -310,8 +272,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -324,9 +284,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -340,8 +297,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -354,9 +309,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -370,8 +322,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -384,9 +334,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -400,8 +347,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>
@@ -414,9 +359,6 @@
 						<div class="col-md-4 col-sm-12">
 							<div class="service-1">
 								<img src="img/4.jpg">
-								<ul>
-									<li><i class="fa fa-inr"></i> 5000 /-</li>
-								</ul>
 							</div>
 						</div>
 						<div class="col-md-8 col-sm-12">
@@ -430,8 +372,6 @@
 								</p>
 								<div class="service-link">
 									<a class="l-1" href="">View Details</a>
-									<a class="l-2" href=""><i class="fa fa-thumbs-up"></i> Buy Now</a>
-									<a class="l-2" href=""><i class="fa fa-shopping-cart"></i> Add to cart</a>
 								</div>
 							</div>
 						</div>

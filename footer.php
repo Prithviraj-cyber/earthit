@@ -22,7 +22,6 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">

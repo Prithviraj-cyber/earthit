@@ -3,7 +3,7 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
+	<link rel="shortcut icon" href="img/logo.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,8 +49,8 @@
 	<!------------------------------------navbar----------------------->	
 		<section id="navbar">
 			<nav class="navbar navbar-expand-lg navbar-light">
-			  	<a class="navbar-brand" href="index.html"><img src="img/logo.jpg"></a>
-			  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			  	<a class="navbar-brand" href="index.php"><img src="img/logo.jpg"></a>
+			  	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
 			    	<span class="navbar-toggler-icon"></span>
 			  	</button>
 
@@ -62,7 +62,7 @@
 			      		<li class="nav-item dropdown">
 			        		<a class="nav-link dropbtn">CUSTOMER SUPPORT<i class="fa fa-chevron-down"></i></a>
 							<div class="dropdown-content">
-								<a href="#">FAQ</a>
+								<a href="#">Ratings & Reviews</a>
 								<a href="#">Customer Feedback</a>
 								<a href="#">Complain</a>
 							</div>
@@ -91,8 +91,7 @@
 			      		<li class="nav-item dropdown">
 			        		<a class="nav-link dropbtn">ACCOUNT<i class="fa fa-user-plus"></i></a>
 			        		<div class="dropdown-content">
-								<a href="#">Sign Up</a>
-								<a href="#">Login</a>
+								<a href="login-form.php">Login</a>
 								<a href="#">Admin</a>
 							</div>
 			      		</li>

@@ -3,7 +3,7 @@
 <head>
 
 	<title>Earth IT Solutions|IT Company in Vanarasi</title>
-	<link rel="shortcut icon" href="img/23.JPG">
+	<link rel="shortcut icon" href="img/logo.JPG">
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,7 +35,7 @@
 	<section id="hl">
 		<div class="hl">
 			<div class="container">
-				<a href="index.html">HOME</a>
+				<a href="index.php">HOME</a>
 					<i class="fa fa-angle-double-right"></i>
 				<a href="our-team.php">OUR TEAM</a>
 			</div>
